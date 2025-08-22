@@ -1,2 +1,2 @@
-# oroswap-liquidity-bot
-Bot untuk add liquidity di OroSwap
+# monad-bot
+Bot auto transaksi di ecosystem monad
